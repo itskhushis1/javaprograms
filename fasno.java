@@ -10,6 +10,7 @@ num = sc.nextInt();
 n2 = num * 2;  
 n3 = num * 3;  
 //concatenating num, n2, and n3  
+  
 String concatstr = num + "" + n2 + n3;  
 boolean found = true;  
 //checks all digits from 1 to 9 are present or not  
